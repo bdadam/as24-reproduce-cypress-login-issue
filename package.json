@@ -1,0 +1,11 @@
+{
+  "name": "as24-reproduce-cypress-login-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bdadam/as24-reproduce-cypress-login-issue.git",
+  "author": "Adam <me@bdadam.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}
